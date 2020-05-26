@@ -6,7 +6,7 @@ Expected Result:
 The permutations of the string are :
 abcd abdc acbd acdb adcb adbc bacd badc bcad bcda bdca bdac cbad cbda cabd cadb cdab cdba dbca dbac dcba dcab dacb dabc
 
-''''
+'''
 
 
 
